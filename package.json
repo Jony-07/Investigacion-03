@@ -4,7 +4,7 @@
   "description": "Creación de  API REST con Node js",
   "main": "server.js",
   "scripts": {
-    "dev":"nodemon source/server.js"
+    "dev": "nodemon source/server.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Jony-07/restapi_it3#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "underscore": "^1.11.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
